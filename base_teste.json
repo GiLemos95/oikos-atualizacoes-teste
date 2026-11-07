@@ -1,0 +1,6 @@
+{
+  "tipo": "teste_integracao",
+  "versao": "0.0.1-teste",
+  "descricao": "Arquivo ficticio para testar download e integridade. Nao contem dados normativos.",
+  "registros": [{"codigo": "TESTE-001", "mensagem": "Integridade OK"}]
+}
